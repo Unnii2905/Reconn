@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE/project config
+.vscode/
+.idea/
+
+# Output files
+*.out
+*.json
+
+# OS junk
+ehthumbs.db

@@ -1,0 +1,6 @@
+colorama
+requests
+dnspython
+aiohttp
+ipwhois
+python-whois
